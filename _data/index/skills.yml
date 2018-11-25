@@ -1,0 +1,6 @@
+# skills section data
+
+label: Ability
+id : cs
+aspects: English, GitHub, HTML./css, Math, Python
+percentage: 30, 10, 10, 60, 30

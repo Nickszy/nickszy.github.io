@@ -1,0 +1,71 @@
+#
+###################################
+# Site wide configuration
+####################################
+#
+title: 大智的天空
+email: shenzheyu4416@gmail.com
+description: 欢迎来到我的世界
+url: # the base hostname & protocol for your site
+keywords: ["blog", "jekyll"]
+
+#
+###################################
+# Jekyll configuration
+####################################
+#
+timezone:          
+markdown:          kramdown
+highlighter:       rouge
+excerpt_separator: <!--more-->
+permalink:         /articles/:year-:month/:title
+
+kramdown:
+  auto_ids: true
+  footnote_nr: 1
+  entity_output: as_char
+  toc_levels: 1..6
+  enable_coderay: false
+
+#
+###################################
+# Site Owner configuration
+####################################
+#
+owner:
+  name: spectre-nine
+  avatar: huomiao.jpg
+  job: "student"
+  bio: 欢迎来到大智的天空
+  email: shenzheyu4416@gmail.com
+  disqus-shortname: https-nickszy-github-com
+  twitter: spectre_nine #username
+  facebook: #username
+  google:
+    plus: #username
+    analytics: UA-120544317-2
+    verify:
+    ad-client:
+    ad-slot:
+  bing-verify:
+  github: nickszy #username
+  gitlab: #username
+  stackoverflow: #123456/username   from a "http://stackoverflow.com/users/123456/username" link
+  linkedin: #username
+  skype: #username
+  xing: #username
+  instagram: spectre_nine #username
+  lastfm: #username
+  tumblr: #username
+  pinterest: #username
+  foursquare: #username
+  steam: #username
+  dribbble: #username
+  youtube: #username
+  soundcloud: #username
+  weibo: 3258463193 #username
+  flickr: #username
+  500px: #username
+  codepen: #username
+  reddit: #username
+  telegram: SpectreNine #username
