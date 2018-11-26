@@ -69,3 +69,8 @@ owner:
   codepen: #username
   reddit: #username
   telegram: SpectreNine #username
+
+  plugins:
+  - jekyll-seo-tag
+
+paginate: 15
