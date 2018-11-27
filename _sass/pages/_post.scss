@@ -30,7 +30,7 @@
 
 // Post Section
 section.post {
-	margin-bottom: 80px;
+	margin-bottom: 60px;
 }
 
 // Back home button
@@ -46,12 +46,12 @@ section.post {
 
 // Post title
 .post-title {
-
+font-size: 20px;
 }
 
 .post-title-link {
 	color: $primary;
-	font-size: 14px;
+	font-size: 13px;
 	margin-left: 10px;
 	&:hover,
 	&:focus {

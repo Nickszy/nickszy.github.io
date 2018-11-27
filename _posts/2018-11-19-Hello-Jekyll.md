@@ -3,11 +3,14 @@ layout: post
 title:  Jekyll更新计划
 date:   2018-11-19 16:37:49 +0800
 categories: jekyll
-tags: blog
+tags: 
+  - blog
 comments: true
+share: false
+excerpt: "Jekyll log"
 ---
 
-## Hello Jekyll!
+## 2018.11.19 Hello Jekyll!
 
 **Hello world**, this is my first Jekyll blog post.
 
