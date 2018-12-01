@@ -4,3 +4,8 @@ label: Ability
 id : cs
 aspects: English, GitHub, HTML./css, Math, Python
 percentage: 30, 10, 10, 60, 30
+
+label: love
+id : cs
+aspects: 投资,摄影,计算机，金融，语文
+percentage: 5, 10, 20, 10, 30
