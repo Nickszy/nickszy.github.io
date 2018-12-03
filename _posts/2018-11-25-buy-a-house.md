@@ -1,11 +1,11 @@
 ---
 layout: post
 title: 想要买房子🏠的我们
-categories: 生活
+categories: dairy
 tags:
-  - 财富
-  - 房地产
-excerpt: 我的同学说他准备在杭州买房了。是呀，虽然我们才刚20，但马上就要变成大人了呀！
+  - 投资
+  - 生活
+excerpt: 我的同学说他准备在杭州买房了。是呀，20的我们马上就要变成大人了呀！
 comments: true
 ---
 
