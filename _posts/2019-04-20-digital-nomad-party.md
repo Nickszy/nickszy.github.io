@@ -6,6 +6,7 @@ categories:
 tags:
   - 数字游民
 excerpt: 真的见到了一群数字游民的实践者
+comments: true
 ---
 
 # 【感想】数字游民社群

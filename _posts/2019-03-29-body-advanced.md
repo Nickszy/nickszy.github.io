@@ -5,6 +5,7 @@ categories:
   - 健身
 tags:
 excerpt: 2019 开启健身之路
+comments: true
 ---
 
 
