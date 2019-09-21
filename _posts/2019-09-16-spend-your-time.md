@@ -6,7 +6,7 @@ categories:
 tags:
   - 时间
 excerpt: 命运中挣扎
-comments:True
+comments: true
 ---
 
 昨天我第二次参加了大学生数学建模大赛，这次依旧没有把题目做完，不过这次的原因不再是能力不行，而是两个队友临阵脱逃。
