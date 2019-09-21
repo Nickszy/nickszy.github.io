@@ -1,6 +1,6 @@
 # skills section data
 
 label: Ability
-id : cs
-aspects: English, GitHub, HTML./css, Math, Python
-percentage: 30, 10, 10, 60, 30
+id : szy
+aspects: 编程,统计,英语,金融,生活
+percentage: 30, 20, 20, 30, 60
