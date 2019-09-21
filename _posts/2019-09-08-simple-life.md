@@ -5,6 +5,7 @@ categories:
   - 感想
 tags:
   - 生活
+excerpt: 将生活量化拟合，寻求最舒服的生活
 comments: true
 ---
 
