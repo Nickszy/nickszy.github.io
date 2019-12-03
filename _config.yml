@@ -6,7 +6,7 @@
 title: 大智的天空
 email: shenzheyu4416@gmail.com
 description: 欢迎来到我的世界
-url: blog.shenzheyu.com # the base hostname & protocol for your site
+url: # the base hostname & protocol for your site
 keywords: ["blog", "jekyll"]
 
 #
