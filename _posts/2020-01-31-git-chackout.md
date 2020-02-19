@@ -1,21 +1,15 @@
 ---
 layout: post
-title:  2020-01-31-learn
+title:  git-branch
 categories: 
   - 笔记
 tags:
-  - web
   - git
 excerpt: 感受了一些大型项目，需要同步协作，也要对用户进行便捷性的考虑
 comments: true
 ---
-## django
 
-### token
-
-认证之后服务器给他一个 token，然后每次发起请求都携带 token。
-
-## chakeout
+## checkout
 
 每次打开 git 先输入
 
@@ -26,6 +20,3 @@ git checkout -b newbranch  # 换
 
 git branch # 查看现有branch
 ```
-
-
-

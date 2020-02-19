@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  2020-02-01-learn
+title:  vue-组件
 categories: 
   - 笔记
 tags:
@@ -8,8 +8,6 @@ tags:
 excerpt: 初次尝试建立一个vue项目，感觉vue的写好非常像python 
 comments: true
 ---
-
-## vue
 
 ### 设计一个组件
 

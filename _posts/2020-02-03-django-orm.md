@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  2020-02-03-learn
+title:  django-orm
 categories: 
   - 笔记
 tags:
@@ -27,7 +27,3 @@ post.objects.exclude(id__lt='100').values('ptime','author').filter(uname__contai
 ```
 python manage.py inspectdb>/app/models.py   /可以通过数据库反推model，但是生成的文件是会覆盖原文件的
 ```
-
-
-
-
