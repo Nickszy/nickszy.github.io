@@ -4,6 +4,7 @@ title: django-url
 categories: 
   - 笔记
 tags:
+  - python
   - django
   - url
 excerpt: 学了django完整版的url设置

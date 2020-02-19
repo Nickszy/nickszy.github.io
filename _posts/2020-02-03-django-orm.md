@@ -5,6 +5,7 @@ categories:
   - 笔记
 tags:
   - django
+  - python
   - orm
 excerpt: 学了django中orm的部分操作，很是便捷
 comments: true

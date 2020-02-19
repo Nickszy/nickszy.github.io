@@ -4,7 +4,7 @@ title: 数据库设计软件-PDMan
 categories: 
   - 笔记
 tags:
-  - 数据库
+  - sql
 excerpt: 查找了一些设计数据库表的软件
 comments: true
 ---

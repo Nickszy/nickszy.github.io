@@ -2,15 +2,14 @@
 layout: post
 title:  python-tabulate
 categories: 
-  - 介绍
+  - 笔记
 tags:
-  - 工具
   - python
 excerpt:  一个能够打印不同类型表格的python库
 comments: true
 ---
 
-其实在用 pandas 也能获得比较好的一个效果，特别是 pandas 这次 1.0.0 版本增加了 to_markdown 的新功能。
+其实用 pandas 也能获得比较好的一个效果，特别是 pandas 这次 1.0.0 版本增加了 to_markdown 的新功能。
 
 但是这个 tabulate 也是不可或缺的一个库，它能够输出各种类型的表格。
 
@@ -43,7 +42,7 @@ tabulate(tabular_data, headers=(), tablefmt='simple', floatfmt=_DEFAULT_FLOATFMT
 |tabular_data | | tabel 类型的大多都可以，详见 pypi |
 |headers| |`实参列表` `firstrow` 或者 `"keys"`|
 |showindex| `default` | `None` `True/False` `"always"` 或者指定列表中的某一列 |
-|tabelfmt| `simple`| plain/simple/github/latex/... |
+|tabelfmt| `simple`| plain/simple/github/latex/... 详见下文|
 |numalign  | `decicmal` |`right`, `center`, `left`, `decimal` (only for numbers), and `None` (to disable alignment) |
 |stralign  | `left` |`right`, `center`, `left`, `decimal` (only for numbers), and `None` (to disable alignment) |
 
