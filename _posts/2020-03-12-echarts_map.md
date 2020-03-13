@@ -12,6 +12,8 @@ comments: true
 
 ## echarts
 
+1.直接引入js的做法
+
 ```js
 <script type="text/javascript" src="https://cdn.jsdelivr.net/npm/echarts/map/js/world.js"></script>  # 通过cdn使用地图信息
 <div id="main" style="width: 600px;height:400px;"></div>  # 绘在一个600*400的画布上
@@ -26,6 +28,31 @@ chart.setOption({
 </script>
 
 ```
+
+2.获取json文件的做法
+
+```js
+
+<div id="zj" style="width: 250px"></div>
+                    <script>
+                        place = '浙江省/湖州市'
+                        url = "../static/chinaMapJsonData/"+place+"/datas.json"
+                        $.get(url,function(geojson) {
+                            echarts.registerMap(place,geojson);
+                            var chart = echarts.init(document.getElementById('zj'),{renderer:'svg'});
+                            chart.setOption({
+                                series: [{
+                                    type: 'map',
+                                    mapType: place,
+                                    label:{
+                                        show: true
+                                    }
+                                }]
+                            });
+                              });
+                    </script>
+```
+其实js就是json和注册的一个集合。
 
 ### 省份的问题
 
