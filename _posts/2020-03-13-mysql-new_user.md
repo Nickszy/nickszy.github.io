@@ -44,5 +44,10 @@ update mysql.user set password = password('zhangsannew') where user = 'zhangsan'
 drop user zhangsan@'%'; # 删除用户
 ```
 
+## 原理
+
+mysql中有`user`,`db`,``
+
+
 ---
 参考：[MySQL用户管理：添加用户、授权、删除用户](https://www.cnblogs.com/pejsidney/p/8945934.html)
