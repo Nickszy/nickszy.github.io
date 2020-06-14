@@ -69,10 +69,12 @@ c. 在页面中局部进行缓存
 
 ```
 步骤I. 引入TemplateTag
+{% raw %}
         {% load cache %}
 步骤II. 使用缓存
         {% cache 5000 缓存key %}
             缓存内容
         {% endcache %}
+{% endraw %}
 ```
 
